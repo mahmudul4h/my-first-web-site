@@ -1,0 +1,28 @@
+.header{
+    background-image: url(resources/Banner\ Image.png);
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+margin-top: 40px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 80px;
+}
+.text-happy{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.text-new{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+}
